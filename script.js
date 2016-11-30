@@ -5,5 +5,5 @@ $(function() {
 })
 
 function dealWithIt() {
-    $("#glasses").animate({up: '250px'}, 1500)
+  $("#glasses").animate({height: '+=150px'}, 1500)
 }
